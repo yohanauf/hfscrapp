@@ -1,14 +1,14 @@
-#HFR Scrapp
+# HFR Scrapp
 
 > the uniq hfr scrapper
 
-##install
+## install
 ```bash
 $ npm i
 $ npm run setup
 ```
 
-##run
+## run
 ```bash
 $ npm start
 ```
